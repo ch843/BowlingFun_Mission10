@@ -14,7 +14,7 @@ function BowlerInfo() {
   }, []);
 
   return (
-    <>
+    <div className="row" style={{margin: "0 5em 0 5em"}}>
       <table className="table table-bordered table-striped mt-5 text-center">
         <thead>
           <tr>
@@ -43,7 +43,7 @@ function BowlerInfo() {
           ))}
         </tbody>
       </table>
-    </>
+    </div>
   );
 }
 

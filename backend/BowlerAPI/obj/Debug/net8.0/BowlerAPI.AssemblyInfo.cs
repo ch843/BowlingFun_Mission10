@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BowlerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26f0d92e400f949983d3edc4c989e7ce0d3850f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BowlerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BowlerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

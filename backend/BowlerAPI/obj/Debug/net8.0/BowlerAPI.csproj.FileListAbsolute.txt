@@ -126,3 +126,4 @@
 /home/cassidy/BowlingFun_Mission10/backend/BowlerAPI/obj/Debug/net8.0/BowlerAPI.pdb
 /home/cassidy/BowlingFun_Mission10/backend/BowlerAPI/obj/Debug/net8.0/BowlerAPI.genruntimeconfig.cache
 /home/cassidy/BowlingFun_Mission10/backend/BowlerAPI/obj/Debug/net8.0/ref/BowlerAPI.dll
+/home/cassidy/BowlingFun_Mission10/backend/BowlerAPI/obj/Debug/net8.0/BowlerAPI.sourcelink.json
